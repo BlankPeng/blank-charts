@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-23T16:37:07.442428816+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4b4cd1aee30e460200627831e848a4f22cd36f3ce0ffd1139478f84ec7999bd4
+    name: mychart
+    urls:
+    - https://github.com/BlankPeng/blank-charts.git/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-23T16:37:07.441880327+08:00"
