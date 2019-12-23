@@ -3,11 +3,21 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-23T18:36:51.39444574+08:00"
+    created: "2019-12-23T18:53:03.607956213+08:00"
     description: A Helm chart for Kubernetes
     digest: 4b4cd1aee30e460200627831e848a4f22cd36f3ce0ffd1139478f84ec7999bd4
     name: mychart
     urls:
-    - https://charts.blankpeng.top/mychart-0.1.0.tgz
+    - https://charts.blankpeng.top/docs/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-23T18:36:51.39395725+08:00"
+  spring-boot:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-23T18:53:03.608235607+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 11739a75629a161e490ac5c1b56ef97cc93ee17022792e7f420c590a05a71016
+    name: spring-boot
+    urls:
+    - https://charts.blankpeng.top/docs/spring-boot-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-23T18:53:03.607380924+08:00"
